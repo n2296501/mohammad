@@ -1,4 +1,5 @@
-URL = require "socket.url"
+URL = require "socket.url"sudo_users = {
+Id: 324669120},--Sudo users 
 http = require "socket.http"
 https = require "ssl.https"
 ltn12 = require "ltn12"
